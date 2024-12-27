@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> f17552b425c92d9df6df78c1bf16eefab1efdc04
 # PexelStock
 
 A simple image search engine built using HTML, CSS, and JavaScript, utilizing the Unsplash API.
@@ -55,6 +52,10 @@ Here are some screenshots of the application in action:
 
 ![PexelStock More Button Demo](/demoimg/4.png)
 
+### Responsive Page
+
+![PexelStock Responsive Page Demo](/demoimg/5.png)
+
 In these demos, we show the homepage, the search section, the images displayed after searching for a keyword, and the "More" button at the end of the page.
 
 ## Contributing
@@ -63,10 +64,5 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Acknowledgments
 
-<<<<<<< HEAD
 - Unsplash API for providing a vast collection of high-quality images.
-- Codeium for providing a great AI-powered code completion tool.
-=======
-* Unsplash API for providing a vast collection of high-quality images.
-* Codeium for providing a great AI-powered code completion tool.
->>>>>>> f17552b425c92d9df6df78c1bf16eefab1efdc04
+
