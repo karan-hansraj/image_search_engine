@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> f17552b425c92d9df6df78c1bf16eefab1efdc04
 # PexelStock
 
 A simple image search engine built using HTML, CSS, and JavaScript, utilizing the Unsplash API.
@@ -32,7 +29,7 @@ Please note that you need to replace the `API_KEY` variable in the `script.js` f
 
 ## Installation
 
-1. Clone the repository using `git clone https://github.com/your-username/pexelstock.git`
+1. Clone the repository using `git clone https://github.com/karan-hansraj/pexelstock.git`
 2. Open the `index.html` file in a web browser to use the application.
 
 ## Demo
