@@ -29,7 +29,7 @@ Please note that you need to replace the `API_KEY` variable in the `script.js` f
 
 ## Installation
 
-1. Clone the repository using `git clone https://github.com/karan-hansraj/pexelstock.git`
+1. Clone the repository using `git clone https://github.com/karan-hansraj/image_search_engine.git`
 2. Open the `index.html` file in a web browser to use the application.
 
 ## Demo
