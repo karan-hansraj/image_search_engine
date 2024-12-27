@@ -1,13 +1,12 @@
-```markdown
 # PexelStock
 
 A simple image search engine built using HTML, CSS, and JavaScript, utilizing the Unsplash API.
 
 ## Features
 
-* Search for images using a keyword
-* Display a gallery of images with download links
-* Load more images on demand
+- Search for images using a keyword
+- Display a gallery of images with download links
+- Load more images on demand
 
 ## How it works
 
@@ -18,10 +17,10 @@ A simple image search engine built using HTML, CSS, and JavaScript, utilizing th
 
 ## Technologies used
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* Unsplash API
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Unsplash API
 
 ## API Key
 
@@ -32,12 +31,33 @@ Please note that you need to replace the `API_KEY` variable in the `script.js` f
 1. Clone the repository using `git clone https://github.com/your-username/pexelstock.git`
 2. Open the `index.html` file in a web browser to use the application.
 
+## Demo
+
+Here are some screenshots of the application in action:
+
+### Homepage
+
+![PexelStock Homepage Demo](/demoimg/1.png)
+
+### Search Section
+
+![PexelStock Search Section Demo](/demoimg/2.png)
+
+### Images after Search
+
+![PexelStock Images after Search Demo](/demoimg/3.png)
+
+### More Button
+
+![PexelStock More Button Demo](/demoimg/4.png)
+
+In these demos, we show the homepage, the search section, the images displayed after searching for a keyword, and the "More" button at the end of the page.
+
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
 
-
 ## Acknowledgments
 
-* Unsplash API for providing a vast collection of high-quality images.
-* Codeium for providing a great AI-powered code completion tool.
+- Unsplash API for providing a vast collection of high-quality images.
+- Codeium for providing a great AI-powered code completion tool.

@@ -42,11 +42,11 @@ async function getResponse() {
     let html = `<img src="${result.preview_photos[0].urls.small}" alt="img" class="photo"> 
     <div class="details">
                 <div class="user">
-                    <img src="img/camera.svg" alt="img">
+                    <img src="/img/camera.svg" alt="img">
                 <span>${result.title}</span>
                 </div>
                 <div class="download" onclick=download("${result.preview_photos[0].urls.small}")>
-                    <img src="img/download.svg" alt="">
+                    <img src="/img/download.svg" alt="">
                 </div>
             </div>`;
     li.innerHTML = html;
