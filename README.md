@@ -1,4 +1,4 @@
-```markdown
+
 # PexelStock
 
 A simple image search engine built using HTML, CSS, and JavaScript, utilizing the Unsplash API.
