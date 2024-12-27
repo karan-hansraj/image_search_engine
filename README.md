@@ -60,10 +60,6 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Acknowledgments
 
-<<<<<<< HEAD
 - Unsplash API for providing a vast collection of high-quality images.
-- Codeium for providing a great AI-powered code completion tool.
-=======
-* Unsplash API for providing a vast collection of high-quality images.
-* Codeium for providing a great AI-powered code completion tool.
->>>>>>> f17552b425c92d9df6df78c1bf16eefab1efdc04
+
+
